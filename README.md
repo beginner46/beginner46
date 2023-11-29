@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beginner46.
-- 👀 I’m interested in applications of Data Science.
+- 👀 I’m interested in applications of Data Science and Algorithmic trading.
 - 🌱 I have completed my bachelor's in Data Science and Engineering at IISER Bhopal.
-- 💞️ I’m looking to collaborate on anything that can help solve complex problems and drive insights from a given dataset.
+- 💞️ I’m looking to collaborate on anything that can help solve complex problems and drive actionable insights from data.
 - 📫 Feel free to ping me on shashanks.iiserb@gmail.com
 
 <!---
